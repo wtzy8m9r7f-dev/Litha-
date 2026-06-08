@@ -1,0 +1,1 @@
+Open index.html in a browser. Upload the full folder to Netlify, Vercel, GitHub Pages, or your hosting provider.
